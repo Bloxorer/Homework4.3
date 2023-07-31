@@ -27,9 +27,9 @@ public class SecondActivity extends AppCompatActivity {
                 R.drawable.boyar, "380"));
         plants.add(new Plant("Подорожник", "Род одно- и многолетних трав, реже полукустарников семейства Подорожниковые (Plantaginaceae)",
                 R.drawable.podoroj, "158"));
-        plants.add(new Plant("Шипо́вник", "Род растений семейства Розовые (Rosaceae) порядка Розоцветные (Rosales)",
+        plants.add(new Plant("Шиповник", "Род растений семейства Розовые (Rosaceae) порядка Розоцветные (Rosales)",
                 R.drawable.ship, "366"));
-        plants.add(new Plant("Гера́нь", "Род семейства Гераниевые",
+        plants.add(new Plant("Герань", "Род семейства Гераниевые",
                 R.drawable.geran, "400+"));
         plants.add(new Plant("Берёза", "Род листопадных деревьев и кустарников семейства Берёзовые (Betulaceae)",
                 R.drawable.bereza, "120+"));
